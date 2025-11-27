@@ -1,5 +1,5 @@
 # 💻 About Me:
-🎒. I'm currently studing Computer Science at CESAR School.
+🎒. I'm currently studing Computer Science at CESAR School.  
 📄. Learning Python | C | JavaScript | Git | 
 
 
